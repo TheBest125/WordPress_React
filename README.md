@@ -1,4 +1,6 @@
 # Black Hawk
+Made by Kevin Bruyne
+
 By [Shashwat Mittal](https://www.shashwatmittal.com)
 
 A React powered WordPress theme.
